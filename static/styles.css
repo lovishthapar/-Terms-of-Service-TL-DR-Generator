@@ -1,0 +1,47 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #f8f9fa;
+}
+
+header {
+    background-color: #0d6efd; /* Bootstrap primary blue */
+}
+
+textarea.form-control {
+    resize: vertical; /* Allow resizing */
+    border: 1px solid #ced4da;
+    transition: border-color 0.3s;
+}
+
+textarea.form-control:focus {
+    border-color: #0d6efd;
+    box-shadow: 0 0 0 0.25rem rgba(13, 110, 253, 0.25);
+}
+
+.btn-primary {
+    transition: background-color 0.3s, transform 0.1s;
+}
+
+.btn-primary:hover {
+    background-color: #0b5ed7;
+    transform: scale(1.02);
+}
+
+.card {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transition: box-shadow 0.3s;
+}
+
+.card:hover {
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15);
+}
+
+ul {
+    list-style-type: disc;
+    padding-left: 20px;
+    margin-bottom: 0;
+}
+
+footer {
+    border-top: 1px solid #dee2e6;
+}
