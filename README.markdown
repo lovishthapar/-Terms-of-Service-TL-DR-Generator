@@ -18,7 +18,7 @@ A simple web tool that summarizes lengthy Terms of Service (ToS) documents into 
 ## Demo
 Try the app by pasting a ToS text (e.g., from [Google's Terms](https://www.google.com/policies/terms/)) and clicking "Generate Summary." The screenshot below shows the app in action:
 
-![Working Screenshot](images/working.png)
+![Working Screenshot](working.png)
 
 ## Installation
 1. **Prerequisites**:
