@@ -2,7 +2,6 @@
 
 A simple web tool that summarizes lengthy Terms of Service (ToS) documents into concise, easy-to-read bullet points using the Google Gemini API. Built for hackathons, it demonstrates AI-powered text summarization with a clean, responsive UI.
 
-![App in Action](images/working.png)
 
 ## Features
 - Paste any ToS text and get a bulleted summary of key points:
